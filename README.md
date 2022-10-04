@@ -1,6 +1,9 @@
 # FaceMapping
-FaceMapping with Dlib and Python
 
-sudo pip3 install cmake
+##FaceMapping with Dlib and Python
 
-sudo pip3 install numpy opencv-python dlib imutils
+### Additional dependencies
+`sudo pip3 install cmake`
+
+### Dependencies Dlib
+`sudo pip3 install numpy opencv-python dlib imutils`
