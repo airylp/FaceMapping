@@ -11,3 +11,7 @@
 You can run this code with the FaceMapping.py script.
 ### Output Example
 ![My Face](https://github.com/airylp/FaceMapping/blob/main/face_mapping_example.gif)
+
+### The 68 points mark-up used for our annotations.
+
+![The 68 points](https://github.com/airylp/FaceMapping/blob/main/figure_68_markup.jpg)
